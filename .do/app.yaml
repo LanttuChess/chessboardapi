@@ -1,0 +1,6 @@
+name: chessboardapi
+services:
+- name: web
+  github:
+    repo: LanttuChess/chessboardapi
+    branch: main
